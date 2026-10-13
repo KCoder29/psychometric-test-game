@@ -7,8 +7,7 @@ This internship project involved developing a web-based psychometric test game t
 The project also explored the potential relationship between sound frequency and cognitive performance, including the use of Om chanting at 432 Hz.
 
 ## Project Report
-
-[**Read the Internship Project Report (PDF)**](https://github.com/KCoder29/psychometric-test-game/blob/main/Psychometric_Test_Game_Internship_Project_Report.pdf)
+https://github.com/KCoder29/psychometric-test-game/blob/main/Psychometric_Test_Game_Project_Report.pdf
 
 ## Technologies Used
 
